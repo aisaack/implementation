@@ -1,6 +1,6 @@
 # Implementation
 
-This repo is for paper-implementation mainly, but sometimes there will be scratch implementation code.
+This repo is for paper-implementation mainly, but sometimes there would be scratch implementation code too.
 - [x] Scratch neural net(MNIST)
 - [x] AlexNet
 - [ ] VGGNet(To be updated)
