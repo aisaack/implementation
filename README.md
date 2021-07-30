@@ -4,5 +4,5 @@ This repo is for paper-implementation mainly, but sometimes there would be scrat
 - [x] Scratch neural net(MNIST)
 - [x] AlexNet
 - [x] VGGNet
-- [ ] GoogLeNet(To be updated)
+- [x] GoogLeNet(LRN Needs To be updated)
 - [ ] ResNet(To be updated)
