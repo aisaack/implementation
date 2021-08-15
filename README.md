@@ -5,4 +5,6 @@ This repo is for paper-implementation mainly, but sometimes there would be scrat
 - [x] AlexNet: https://velog.io/@iissaacc/AlexNet
 - [x] VGGNet: https://velog.io/@iissaacc/VGGNet
 - [x] GoogLeNet(LRN Needs To be updated): https://velog.io/@iissaacc/GoogLeNet
-- [ ] ResNet(To be updated)
+- [x] ResNet: https://velog.io/@iissaacc/ResNet
+- [ ] FPN
+- [ ] RPN
