@@ -7,4 +7,4 @@ This repo is for paper-implementation mainly, but sometimes there would be scrat
 - [x] GoogLeNet(LRN Needs To be updated): https://velog.io/@iissaacc/GoogLeNet
 - [x] ResNet: https://velog.io/@iissaacc/ResNet
 - [x] FPN
-- [ ] RPN
+- [x] RPN
