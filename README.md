@@ -9,3 +9,4 @@ This repo is for paper-implementation mainly, but sometimes there would be scrat
 - [x] FPN: https://velog.io/@iissaacc/Feature-Pyramid-Network
 - [x] RPN
 - [ ] EfficientNet
+- [ ] Depthwise Separable Convolution: https://velog.io/@iissaacc/Depthwise-Separable-Convolution
