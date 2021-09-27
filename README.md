@@ -8,3 +8,4 @@ This repo is for paper-implementation mainly, but sometimes there would be scrat
 - [x] ResNet: https://velog.io/@iissaacc/ResNet
 - [x] FPN: https://velog.io/@iissaacc/Feature-Pyramid-Network
 - [x] RPN
+- [ ] EfficientNet
