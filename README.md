@@ -16,13 +16,13 @@
 | [MobileNets: Efficient Convolutional Neural Networks for Mobile Vision Applications](https://arxiv.org/abs/1704.04861)  | :heavy_check_mark:  |:heavy_check_mark:   |          |          |          | Depthwise Separable Convolution |[Depthwise Separable Convolution](https://velog.io/@iissaacc/Depthwise-Separable-Convolution)    |
 |[MobileNetV2: Inverted Residuals and Linear Bottlenecks](https://arxiv.org/abs/1801.04381) |:heavy_check_mark: | :heavy_check_mark: |    |    |    |:heavy_check_mark: |    |
 | [Batch Normalization: Accelerating Deep Network Training by Reducing Internal Covariate Shift](https://arxiv.org/abs/1502.03167)| :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |:heavy_check_mark:   |   | https://velog.io/@iissaacc/Batch-Normalization-2015 |
-|[Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)    | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_check_mark:   |    |    | :heavy_check_mark:   |    |
+|[Cyclical Learning Rates for Training Neural Networks](https://arxiv.org/abs/1506.01186)    | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_check_mark:   |    |    | :heavy_check_mark:   | https://velog.io/@iissaacc/Cyclical-Learning-Rate   |
 | [How Does Batch Normalization Help Optimization?](https://arxiv.org/abs/1805.11604)  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   |     |
 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   | https://velog.io/@iissaacc/Dropout    |
 | [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |:heavy_check_mark:   | https://velog.io/@iissaacc/Feature-Pyramid-Network   |
 | [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) (R-CNN)| :heavy_check_mark:  |   |   |   |     |   |     |
 | [Fast R-CNN](https://arxiv.org/abs/1504.08083)  | :heavy_check_mark:  |  |   |   |     |   |     |
-| [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |RPN   |     |
+| [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |RPN   |  https://velog.io/@iissaacc/Region-Proposal-Network   |
 |[Mask R-CNN](https://arxiv.org/abs/1703.06870)    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |    |    |    |
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)| :heavy_check_mark:  | :heavy_check_mark:  |    |    |    |    |    |
 |    |    |    |    |    |    |    |    |
