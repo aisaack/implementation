@@ -21,7 +21,7 @@
 | [Dropout: A Simple Way to Prevent Neural Networks from Overfitting](https://www.cs.toronto.edu/~rsalakhu/papers/srivastava14a.pdf)  |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|   |   |   | https://velog.io/@iissaacc/Dropout    |
 | [Feature Pyramid Networks for Object Detection](https://arxiv.org/abs/1612.03144) | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |:heavy_check_mark:   | https://velog.io/@iissaacc/Feature-Pyramid-Network   |
 | [Rich feature hierarchies for accurate object detection and semantic segmentation](https://arxiv.org/abs/1311.2524) (R-CNN)| :heavy_check_mark:  |   |   |   |     |   |     |
-| [Fast R-CNN](https://arxiv.org/abs/1504.08083)  | :heavy_check_mark:  |  |   |   |     |   |     |
+| [Fast R-CNN](https://arxiv.org/abs/1504.08083)  | :heavy_check_mark:  |  |   |   |     |   | https://velog.io/@iissaacc/RoI-Pooling    |
 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |RPN   |  https://velog.io/@iissaacc/Region-Proposal-Network   |
 |[Mask R-CNN](https://arxiv.org/abs/1703.06870)    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |    |    |    |
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)| :heavy_check_mark:  | :heavy_check_mark:  |    |    |    |    |    |
