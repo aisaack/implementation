@@ -25,6 +25,7 @@
 | [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/abs/1506.01497)  | :heavy_check_mark:  |:heavy_check_mark:   | :heavy_check_mark:  |:heavy_check_mark:   |     |RPN   |  https://velog.io/@iissaacc/Region-Proposal-Network   |
 |[Mask R-CNN](https://arxiv.org/abs/1703.06870)    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |    |    |    |
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)| :heavy_check_mark:  | :heavy_check_mark:  |    |    |    |    |    |
+|[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) |  :heavy_check_mark:  |  :heavy_check_mark:  |  :heavy_check_mark:  |    |    |    | https://velog.io/@iissaacc/YOLOv2    |
 |    |    |    |    |    |    |    |    |
 
 ## Dividing multiple parts.
