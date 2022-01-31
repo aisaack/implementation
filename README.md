@@ -26,7 +26,7 @@
 |[Mask R-CNN](https://arxiv.org/abs/1703.06870)    | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |    |    |    |
 |[You Only Look Once: Unified, Real-Time Object Detection](https://arxiv.org/abs/1506.02640)| :heavy_check_mark:  | :heavy_check_mark:  |    |    |    |    |    |
 |[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) |  :heavy_check_mark:  |  :heavy_check_mark:  |  :heavy_check_mark:  |    |    |    | https://velog.io/@iissaacc/YOLOv2    |
-|[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)    |  :heavy_check_mark:  |  :heavy_check_mark:  |:heavy_check_mark:    |  :heavy_check_mark:  |    |    | https://velog.io/@iissaacc/DenseNet   |
+|[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)    |  :heavy_check_mark:  |  :heavy_check_mark:  |:heavy_check_mark:    |  :heavy_check_mark:  |    | :heavy_check_mark:   | https://velog.io/@iissaacc/DenseNet   |
 |    |    |    |    |    |    |    |    |
 
 ## Dividing multiple parts.
