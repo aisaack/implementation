@@ -28,6 +28,8 @@
 |[YOLO9000: Better, Faster, Stronger](https://arxiv.org/abs/1612.08242) |  :heavy_check_mark:  |  :heavy_check_mark:  |  :heavy_check_mark:  |    |    |    | https://velog.io/@iissaacc/YOLOv2    |
 |[Densely Connected Convolutional Networks](https://arxiv.org/abs/1608.06993)    |  :heavy_check_mark:  |  :heavy_check_mark:  |:heavy_check_mark:    |  :heavy_check_mark:  |    | :heavy_check_mark:   | https://velog.io/@iissaacc/DenseNet   |
 | [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)   | :heavy_check_mark:   | :heavy_check_mark:   |  :heavy_check_mark:  |    |    |    | https://velog.io/@iissaacc/Triplet-Loss   |
+|[Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)    | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_check_mark:   |    |    |    | https://velog.io/@iissaacc/AdamW  |
+| [SGDR: Stochastic Gradient Descent with Warm Restarts](https://arxiv.org/abs/1608.03983)   |  :heavy_check_mark:  |  :heavy_check_mark:  | :heavy_check_mark:   |    |    |    | https://velog.io/@iissaacc/SGDR   |
 |    |    |    |    |    |    |    |    |
 
 ## Dividing multiple parts.
