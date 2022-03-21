@@ -30,6 +30,7 @@
 | [FaceNet: A Unified Embedding for Face Recognition and Clustering](https://arxiv.org/abs/1503.03832)   | :heavy_check_mark:   | :heavy_check_mark:   |  :heavy_check_mark:  |    |    |    | https://velog.io/@iissaacc/Triplet-Loss   |
 |[Decoupled Weight Decay Regularization](https://arxiv.org/abs/1711.05101)    | :heavy_check_mark:   | :heavy_check_mark:   | :heavy_check_mark:   |    |    | :heavy_check_mark:   | https://velog.io/@iissaacc/AdamW  |
 | [SGDR: Stochastic Gradient Descent with Warm Restarts](https://arxiv.org/abs/1608.03983)   |  :heavy_check_mark:  |  :heavy_check_mark:  | :heavy_check_mark:   |    |    | :heavy_check_mark:   | https://velog.io/@iissaacc/SGDR   |
+|[Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)    |:heavy_check_mark:    | :heavy_check_mark:   | :heavy_check_mark:   |  :heavy_check_mark:  |    |:heavy_check_mark:    | https://velog.io/@iissaacc/Stochastic-Depth-Network   |
 |    |    |    |    |    |    |    |    |
 
 ## Dividing multiple parts.
