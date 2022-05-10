@@ -33,6 +33,7 @@
 |[Deep Networks with Stochastic Depth](https://arxiv.org/abs/1603.09382)    |:heavy_check_mark:    | :heavy_check_mark:   | :heavy_check_mark:   |  :heavy_check_mark:  |    |:heavy_check_mark:    | https://velog.io/@iissaacc/Stochastic-Depth-Network   |
 |[Learning Deep Features for Discriminative Localization](https://arxiv.org/abs/1512.04150)    | :heavy_check_mark:   | :heavy_check_mark:    | :heavy_check_mark:    |    |    | :heavy_check_mark:   |https://velog.io/@iissaacc/Class-Activation-Mapping    |
 | [Distilling the Knowledge in a Neural Network](https://arxiv.org/abs/1503.02531)   |  :heavy_check_mark:  | :heavy_check_mark:   | :heavy_check_mark:   |    |    | :heavy_check_mark:   | https://velog.io/@iissaacc/Knowledge-Distillation   |
+|[ConvNet for the 2020s](https://arxiv.org/abs/2201.03545)    |  :heavy_check_mark:  |  :heavy_check_mark:  |    |    |    |  :heavy_check_mark:  |    |
 |    |    |    |    |    |    |    |    |
 
 ## Dividing multiple parts.
